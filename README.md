@@ -14,4 +14,4 @@ By using strong encryption ways, all backend calling and data management process
 # Real Time Tracking Dashboard
 For comfortable game management for the team, it has real-time tracking dashboard for every games.
 
-Please contact me via telegram https://t.me/shinnyleo0912, I am ready to build wonderful casino on new space with fresh idea.
+Please contact me via telegram https://t.me/derricklee918, I am ready to build wonderful casino on new space with fresh idea.
