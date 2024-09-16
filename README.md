@@ -1,4 +1,4 @@
-# Multi-Chain-Casino
+# Multi-Chain-Casino (Fork Project)
 Completed Casino(Crash, Coinflip, Mines, BlackJack, etc) supported multi-chain coins(eth, sol, base, bitcoin, inj)
 
 # User-friendly Casino Games
